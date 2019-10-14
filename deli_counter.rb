@@ -1,7 +1,8 @@
 
 
 def line(katz_deli)
-  if katz_deli.lenght < 1
+  if katz_deli.empty?
   puts "The line is currently empty."
-else current_line = [""]
+else current_line = ["The line is currently:"]
+  
 end 
