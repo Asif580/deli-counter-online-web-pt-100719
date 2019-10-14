@@ -6,3 +6,4 @@ def line(katz_deli)
 else current_line = ["The line is currently:"]
   
 end 
+end
