@@ -1,9 +1,7 @@
- 
-  def line 
-    katz_deli = []
-    counter = 0
-    if katz_deli.length < 0
-      counter += 1 
-      return "The line is currently empty."
-  end 
- end
+
+
+def line(katz_deli)
+  if katz_deli.lenght < 1
+  puts "The line is currently empty."
+else current_line = [""]
+end 
